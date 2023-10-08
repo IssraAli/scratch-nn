@@ -1,4 +1,4 @@
-# goal: calssify 28x28 handwritten digits
+# goal: classify 28x28 handwritten digits
 
 # from scratch
 #
