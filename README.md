@@ -5,7 +5,7 @@ I did this project because I felt like I didn't really know what was going on un
 
 This is a one-hidden-layer fully connected neural network to classify handwritten digits from the MNIST dataset. After 20 epochs of training the test accuracy was around 80%. 
 
-[](https://github.com/IssraAli/scratch-nn/blob/main/loss_accuracy.png?raw=true)
-[](https://github.com/IssraAli/scratch-nn/blob/main/samples.png?raw=true)
+<img src=https://github.com/IssraAli/scratch-nn/blob/0fb363eac72e663481dbe69b18011f0f845a4b6e/loss_accuracy.png>
+<img src=https://github.com/IssraAli/scratch-nn/blob/0fb363eac72e663481dbe69b18011f0f845a4b6e/samples.png>
 
 The hardest part about this project was computing the gradients by hand. 
